@@ -1,0 +1,3 @@
+/mnt/d/Summer Project/New folder/Sudoku-Generator-and-Solver-/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/d/Summer Project/New folder/Sudoku-Generator-and-Solver-/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/mnt/d/Summer Project/New folder/Sudoku-Generator-and-Solver-/cmake-build-debug/CMakeFiles/Sudoku.dir

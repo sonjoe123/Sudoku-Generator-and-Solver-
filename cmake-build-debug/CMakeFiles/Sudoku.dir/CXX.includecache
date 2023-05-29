@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/d/Summer Project/New folder/Sudoku-Generator-and-Solver-/main.cpp
+iostream
+-
+cstdlib
+-
+ctime
+-
+solveSudoku.h
+/mnt/d/Summer Project/New folder/Sudoku-Generator-and-Solver-/solveSudoku.h
+
+/mnt/d/Summer Project/New folder/Sudoku-Generator-and-Solver-/solveSudoku.cpp
+solveSudoku.h
+/mnt/d/Summer Project/New folder/Sudoku-Generator-and-Solver-/solveSudoku.h
+iostream
+-
+cstdlib
+-
+ctime
+-
+solveSudoku.h
+/mnt/d/Summer Project/New folder/Sudoku-Generator-and-Solver-/solveSudoku.h
+
+/mnt/d/Summer Project/New folder/Sudoku-Generator-and-Solver-/solveSudoku.h
+

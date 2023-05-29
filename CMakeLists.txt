@@ -3,4 +3,4 @@ project(Sudoku)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Sudoku main.cpp)
+add_executable(Sudoku main.cpp solveSudoku.cpp solveSudoku.h)
